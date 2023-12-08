@@ -1,4 +1,4 @@
-# Dealing with Climate Change: The True from the False 🌍🔍
+# Dealing with Climate Change: The True from the False 🌍🔍 --AI--
 
 ## Overview ℹ️
 The challenge for the "Nuit de l'Info" involved addressing climate change misconceptions through an engaging and educational tool. The objective was to create an application to help individuals distinguish between false information and legitimate solutions related to climate change.
